@@ -2,7 +2,7 @@
     "name": "api-user",
     "version": "1.0.0",
     "description": "Node API user",
-    "author": "Gonzalo E. <gestelles@gmail.com>",
+    "author": "Gonzalo E.",
     "main": "server.js",
     "scripts": {
       "start": "node server.js"

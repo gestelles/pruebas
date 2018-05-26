@@ -2,7 +2,7 @@
     "name": "api-template",
     "version": "1.0.0",
     "description": "API TEMPLATE",
-    "author": "Gonzalo E. <gestelles@gmail.com>",
+    "author": "Gonzalo E.",
     "main": "server.js",
     "scripts": {
       "start": "node server.js"
